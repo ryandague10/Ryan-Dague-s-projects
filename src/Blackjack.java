@@ -255,7 +255,7 @@ public class Blackjack {
                 System.out.println(dealerHand);
                 System.out.println(dealerSum);
                 System.out.println(dealerAceCount);
-                //player
+                //player h 
                 playerHand = new ArrayList<Card>();
                 playerSum = 0;
                 playerAceCount = 0;
